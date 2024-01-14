@@ -1,7 +1,7 @@
 {
   "name": "blox.io",
   "version": "1.0.0",
-  "description": "Wow so blocks",
+  "description": "Jackson Was here",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
     "io",
     "game"
   ],
-  "author": "David Woodward, Samuel Holmberg, Jack Chen, Justin Kim",
+  "author": "Jackson Manuel",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dwoodwardgb/blox.io/issues"
@@ -26,3 +26,4 @@
     "socket.io": "^1.5.1"
   }
 }
+
